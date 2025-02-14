@@ -1,2 +1,5 @@
 # CO_GroupProject
-Hello Guys!
+Pranav Ramanathan
+Aryan Pancholi
+Bimal Swarup
+Shriram Ramesh Pandiyan
